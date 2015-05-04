@@ -1,0 +1,57 @@
+http://contest.ipinyou.com/data.shtml
+Season Three
+
++++++++++++++++++++++
+
+Bidding log
+
+Column  Example
+Bid ID(*)   c0550000008e5a94ac18823d6f275121
+Timestamp   20130218134701883
+iPinyou ID(*)   dF_5qwD1UDI
+User-Agent  Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.84 Safari/535.11 SE 2.X MetaSr 1.0
+IP(*)   119.163.222.*
+Region  146
+City    147
+Ad Exchange(*)  2
+Domain(*)   e80f4ec7f5bfbc9ca416a8c01cd1a049
+URL(*)  hz55b000008e5a94ac18823d6f275121
+Anonymous URL ID    Null
+Ad slot ID  973726_9023493
+Ad slot width   300
+Ad slot height  250
+Ad slot visibility  FirstView
+Ad slot format  Na
+Ad slot floor price (RMB/CPM) (*)   0
+Creative ID f80f4ec7f5bfbc9ca416a8c01cd1a049
+Bidding price (RMB/CPM) (*) 573
+Advertiser ID(*)    2345
+User Tags(*)    null
+
+Impression, Click, and Conversion Log
+
+Column  Example
+Bid ID (*)  01530000008a77e7ac18823f5a4f5121
+Timestamp   20130218001203638
+Log type    1
+iPinyou ID(*)   35605620124122340227135
+User-Agent  Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+IP(*)   118.81.189.*
+Region  15
+City    16
+Ad exchange(*)  2
+Domain(*)   e80f4ec7f5bfbc9ca416a8c01cd1a049
+URL(*)  hz55b000008e5a94ac18823d6f275121
+Anonymous URL ID    Null
+Ad slot ID  2147689_8764813
+Ad slot width   300
+Ad slot height  250
+Ad slot visibility  SecondView
+Ad slot format  Fixed
+Ad slot floor price (RMB/CPM) (*)   0
+Creative ID e39e178ffdf366606f8cab791ee56bcd
+Bidding price (RMB/CPM) (*) 753
+Paying price (RMB/CPM) (*)  15
+Key page URL (*)    a8be178ffdf366606f8cab791ee56bcd
+Advertiser ID(*)    2345
+User Tags(*)    123,5678,3456
